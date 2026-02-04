@@ -30,8 +30,8 @@
         }
     ],
     "require": {
-        "php": "^8.0 || ^8.1",
-        "assetic/framework": "v3.0.1",
+        "php": "^8.0 || ^8.1 || ^8.4",
+        "assetic/framework": "v3.1.3",
         "widmogrod/php-functional": "^1.0",
         "laminas/laminas-mvc": "^3.0",
         "symfony/console": "^6"
